@@ -1,5 +1,5 @@
 {
-    "name": "appzcoder/lumen-routes-list",
+    "name": "mash1t/lumen-routes-list",
     "license": "MIT",
     "description": "Display the route list of Lumen",
     "keywords": [
@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": ">=5.5.9",
-        "illuminate/support": "~5.0||^6.0"
+        "illuminate/support": "~5.0||^6.0||^7.0||^8.0"
     },
     "autoload": {
         "psr-4": {
